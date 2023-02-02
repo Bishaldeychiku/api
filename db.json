@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "bisal",
+      "email": "bishaldey890@gmail.com"
+    },
+    {
+      "name": "",
+      "email": "Dey",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "Dey",
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
